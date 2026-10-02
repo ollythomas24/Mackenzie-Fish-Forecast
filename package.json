@@ -1,0 +1,14 @@
+{
+  "name": "tailrace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Canal fishing log: conditions, major/minor times, catch log with photos and map pins.",
+  "type": "module",
+  "scripts": {
+    "dev": "netlify dev",
+    "test": "node test/run.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
